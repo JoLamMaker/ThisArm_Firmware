@@ -1,5 +1,7 @@
 
 
+# More documented in my BLOG: [http://lamjonah.no-ip.info/wp\_tech/?cat=20](http://lamjonah.no-ip.info/wp_tech/?cat=20)
+
 ## Introduction of &quot;ThisArm&quot; Firmware
 
 I put this hobby project open-source with a view to change the close source nature of Robot Arm firmware. More detail on calibration steps was included in the document &quot;MainDocumentWithCalibrationSteps.docx&quot;
@@ -20,7 +22,7 @@ Feature in this version include:
 - G-code interpreter
   - Able to automate motion of arm by any G-code senders in the internet:
     - [https://chrome.google.com/webstore/detail/gcode-sender/ngncibnakmabjlfpadjagnbdjbhoelom](https://chrome.google.com/webstore/detail/gcode-sender/ngncibnakmabjlfpadjagnbdjbhoelom)
-    - https://github.com/MarginallyClever/GcodeSender
+    - [https://github.com/MarginallyClever/GcodeSender](https://github.com/MarginallyClever/GcodeSender)
 
 ## Hardware Requirement of this Firmware
 
