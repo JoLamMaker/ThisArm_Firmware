@@ -1,6 +1,6 @@
 
 
-# More documented in my BLOG: [http://lamjonah.no-ip.info/wp\_tech/?cat=20](http://lamjonah.no-ip.info/wp_tech/?cat=20)
+# More document in my BLOG: [http://lamjonah.no-ip.info/wp\_tech/?cat=20](http://lamjonah.no-ip.info/wp_tech/?cat=20)
 
 ## Introduction of &quot;ThisArm&quot; Firmware
 
