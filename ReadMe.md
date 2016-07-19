@@ -4,7 +4,7 @@
 
 ## Introduction of &quot;ThisArm&quot; Firmware
 
-I put this hobby project open-source with a view to provide a documented and ease to use Robot Arm firmware. More detail on calibration steps was included in the document &quot;MainDocumentWithCalibrationSteps.docx&quot;
+I put this hobby project open-source with a view to provide a documented and easy to use Robot Arm firmware. More detail on calibration steps was included in the document &quot;MainDocumentWithCalibrationSteps.docx&quot;
 
 This Firmware aim to provide a higher level of automation and user interaction with hobby level robot arm that replicate kinematic of ABB IRB460.  Existing example in the market/open source world include:
 
