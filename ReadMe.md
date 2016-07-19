@@ -4,14 +4,14 @@
 
 ## Introduction of &quot;ThisArm&quot; Firmware
 
-I put this hobby project open-source with a view to change the close source nature of Robot Arm firmware. More detail on calibration steps was included in the document &quot;MainDocumentWithCalibrationSteps.docx&quot;
+I put this hobby project open-source with a view to change the close source and undocumented nature of Robot Arm firmware. More detail on calibration steps was included in the document &quot;MainDocumentWithCalibrationSteps.docx&quot;
 
 This Firmware aim to provide a higher level of automation and user interaction with hobby level robot arm that replicate kinematic of ABB IRB460.  Existing example in the market/open source world include:
 
 - MeArm
 - EEZYbotArm
 - EEZYbotArm MK2
-- And a lot more in E-bay, Taobao¡K¡K
+- And a lot more in E-bay, Taobao
 
 Feature in this version include:
 
