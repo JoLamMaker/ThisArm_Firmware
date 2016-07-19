@@ -6,11 +6,11 @@
 
 I put this hobby project open-source with a view to provide a documented and easy to use Robot Arm firmware. More detail on calibration steps was included in the document &quot;MainDocumentWithCalibrationSteps.docx&quot;
 
-This Firmware aim to provide a higher level of automation and user interaction with hobby level robot arm that replicate kinematic of ABB IRB460.  Existing example in the market/open source world include:
+This Firmware aim to provide a higher level of automation and user interaction with hobby level robot arm. It is compatible with arms that replicate kinematic of ABB IRB460.  Existing example in the market/open source world include:
 
-- MeArm
-- EEZYbotArm
-- EEZYbotArm MK2
+- MeArm  (http://www.thingiverse.com/thing:993759)
+- EEZYbotArm (http://www.thingiverse.com/thing:1015238)
+- EEZYbotArm MK2 (http://www.thingiverse.com/thing:1454048)
 - And a lot more in E-bay, Taobao¡K¡K
 
 Feature in this version include:
