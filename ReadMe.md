@@ -11,7 +11,7 @@ This Firmware aim to provide a higher level of automation and user interaction w
 - MeArm
 - EEZYbotArm
 - EEZYbotArm MK2
-- And a lot more in E-bay, Taobao¡K¡K
+- And a lot more in E-bay, TaobaoÂ¡KÂ¡K
 
 Feature in this version include:
 
@@ -26,7 +26,7 @@ Feature in this version include:
 
 ## Hardware Requirement of this Firmware
 
-- Computer with Arduino IDE set-up
+- Computer with Arduino IDE 1.6.9 (or higher version) set-up
 - Arduino UNO (or any higher grade model like Arduino Mega Uno)
   - This is the brain
 - Encoder with Push button
